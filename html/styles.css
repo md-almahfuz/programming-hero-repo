@@ -1,0 +1,45 @@
+/* BASE STYLE */
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    background-image: url(https://images.unsplash.com/photo-1583795484071-3c453e3a7c71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=100);
+    background-position-y: -150px ;
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+/* HEDER */
+
+.header{
+
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.links{
+    list-style: none;
+
+}
+
+.link{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+    font-weight: 500;
+    font-size: 14px;
+    transition: all 0.4s;
+
+}
+
+.link:hover {
+
+    color: rgba(255, 255, 255, 1);
+}
+
+.link-item{
+
+}
